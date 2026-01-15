@@ -162,8 +162,8 @@ Reducir la tasa de cancelación y abandono de socios con baja actividad, incenti
 
 ## 5. Scripts de Prueba (UI)
 
-Se incluyen **3 scripts de ejemplo** en la carpeta del proyecto de automatización
-(Playwright + Python, patrón POM).  
-No requieren ejecución; se evalúan **claridad, estructura y buenas prácticas**.
+El repositorio incluye tres scripts de prueba de interfaz desarrollados como ejemplo,
+utilizando Playwright con Python y el patrón Page Object Model (POM).
 
----
+Los scripts representan flujos críticos del negocio y están orientados a evidenciar
+criterio de automatización, estructura y mantenibilidad del código.
