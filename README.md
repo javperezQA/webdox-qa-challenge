@@ -12,4 +12,3 @@ para el desafío técnico Webdox – Smart Discount 2.0.
 - Análisis funcional
 - Casos de prueba
 - Ejemplos de automatización (no ejecutable)
-
